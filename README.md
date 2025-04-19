@@ -99,3 +99,64 @@
 - Code: 
 - Description:
 - Code Execution Guide:
+
+## LLM Planning
+### 
+- Paper: Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### 
+- Paper: Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### WebArena
+- Paper: WebArena: A Realistic Web Environment for Building Autonomous Agents
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### GameTraversalBenchmark
+- Paper: GameTraversalBenchmark: Evaluating Planning Abilities Of Large Language Models Through Traversing 2D Game Maps
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### ALPINE
+- Paper: ALPINE: Unveiling The Planning Capability of Autoregressive Learning in Language Models
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### Position1
+- Paper: Position: Foundation Agents as the Paradigm Shift for Decision Making
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### Position2
+- Paper: Position: LLMs Can’t Plan, But Can Help Planning in LLM-Modulo Frameworks
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### 
+- Paper: Generalized Planning in PDDL Domains with Pretrained Large Language Models
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### Open Grounded Planning
+- Paper: Open Grounded Planning: Challenges and Benchmark Construction
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### TravelPlanner
+- Paper: TravelPlanner: A Benchmark for Real-World Planning with Language Agents
+- Code: 
+- Description:
+- Code Execution Guide:
