@@ -20,5 +20,82 @@
 - Description:
 - Code Execution Guide:
 
+### AgentBench
+- Paper: AgentBench: Evaluating LLMs as Agents
+- Code: https://github.com/mandyyyyii/scibench
+- Description:
+- Code Execution Guide:
 
+### SmartPlay
+- Paper: A Benchmark for LLMs as Intelligent Agents 
+- Code: https://github.com/microsoft/SmartPlay
+- Description:
+- Code Execution Guide:
 
+### MMT-Bench
+- Paper: MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI 
+- Code: https://github.com/OpenGVLab/MMT-Bench
+- Description:
+- Code Execution Guide:
+
+### NovPhy
+- Paper: NovPhy: A physical reasoning benchmark for open-world AI systems 
+- Code: https://github.com/phy-q/novphy
+- Description:
+- Code Execution Guide:
+
+### Clembench
+- Paper: Clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents 
+- Code: https://github.com/clembench
+- Description:
+- Code Execution Guide:
+
+## Tool Learning
+### MetaTool
+- Paper: MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### GTA
+- Paper: GTA: A Benchmark for General Tool Agents
+- Code: https://github.com/open-compass/GTA
+- Description:
+- Code Execution Guide:
+
+### On the Planning Abilities of Large Language Models - A Critical Investigation 
+- Paper: On the Planning Abilities of Large Language Models - A Critical Investigation 
+- Code: https://github.com/karthikv792/LLMs-Planning
+- Description:
+- Code Execution Guide:
+
+### AppBench
+- Paper: AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction 
+- Code: https://github.com/ruleGreen/AppBench
+- Description:
+- Code Execution Guide:
+
+## LLM Safety
+### PsySafe
+- Paper: PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety
+- Code: http://github.com/AI4Good24/PsySafe
+- Description:
+- Code Execution Guide:
+
+### 
+- Paper: Identifying the Risks of LM Agents with an LM-Emulated Sandbox
+- Code: 
+- Description:
+- Code Execution Guide:
+
+### WildGuard
+- Paper: WildGuard: Open One-stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs
+- Code: https://github.com/allenai/wildguard
+- Description:
+- Code Execution Guide:
+
+### 
+- Paper: 
+- Code: 
+- Description:
+- Code Execution Guide:
