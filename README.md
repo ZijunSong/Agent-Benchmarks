@@ -1,4 +1,6 @@
 # Everyone-Benchmarks
+Offering easy guides to perform prevailing benchmarks
+
 ## MLLM
 ### STI-Bench
 - Paper: STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?
